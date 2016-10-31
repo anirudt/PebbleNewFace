@@ -11,8 +11,14 @@
         "resources": {
             "media": [
                 {
+                    "file": "images/dial.png",
+                    "name": "IMAGE_CIRCLE_DIAL",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
                     "file": "fonts/RINGM___.TTF",
-                    "name": "FONT_RINGBEARER_50",
+                    "name": "FONT_RINGBEARER_42",
                     "targetPlatforms": null,
                     "type": "font"
                 },
